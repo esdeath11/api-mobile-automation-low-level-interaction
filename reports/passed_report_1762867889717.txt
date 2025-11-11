@@ -1,0 +1,21 @@
+
+API Test Report
+================
+
+Timestamp : 11/11/2025, 20.31.29
+StatusCode: 200
+result    : passed
+
+
+Response:
+{
+  "id": "ff8081819782e69e019a731d4b303249",
+  "name": "sno7l0fkn bbp3jr08wz4k",
+  "createdAt": "2025-11-11T13:31:30.992+00:00",
+  "data": {
+    "year": 2019,
+    "price": "9075",
+    "CPU model": "Intel Core i9",
+    "Hard disk size": "1 TB"
+  }
+}

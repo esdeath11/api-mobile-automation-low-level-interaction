@@ -1,0 +1,13 @@
+
+API Test Report
+================
+
+Timestamp : 11/11/2025, 20.31.29
+StatusCode: 415
+result    : passed
+
+
+Response:
+{
+  "error": "415 Unsupported Media Type. The 415 status code indicates that the origin server is refusing to service the request because the payload is in a format not supported by this method on the target resource. One of the examples of getting 415 would be sending a request with a Content-Type header which is not equal to application/json"
+}
