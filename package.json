@@ -11,7 +11,10 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@appium/support": "^7.0.2",
+    "appium": "^3.1.0",
     "axios": "^1.13.2",
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "webdriver": "^9.20.0"
   }
 }
